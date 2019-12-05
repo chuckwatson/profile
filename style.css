@@ -95,6 +95,7 @@ ul {
   width: 1000px;
   margin: 0 auto;
   display: inline;
+  background-color: #F8B9A9;
 }
 
 .list-inline > li {
